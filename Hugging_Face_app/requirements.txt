@@ -1,0 +1,6 @@
+gradio
+nltk
+scikit-learn
+keras
+
+
